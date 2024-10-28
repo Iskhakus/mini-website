@@ -1,0 +1,113 @@
+* {
+    background-color: black;
+}
+
+.title {
+    color:grey;
+    font-family: Arial;
+    font-size: 30px;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.user_image {
+    height: 300px;
+    width: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+}
+
+.welcome {
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.information {
+    color: white;
+    font-family: Arial;
+
+}
+
+.left {
+    background-color: grey;
+}
+
+.right {
+    background-color: grey;
+    text-align: right;
+}
+
+.my_products {
+    color: purple;
+    text-align: center;
+}
+
+.my_products span {
+    color: aqua
+}
+
+.superheroes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.superhero {
+    height: 100%;
+    width: 90%;
+    padding: 20px;
+}
+
+.contacts {
+    text-align: center;
+}
+
+.my_contacts {
+    color: yellow;
+}
+
+.my_contacts span {
+    color: red;
+}
+
+.mail {
+    color: white;
+}
+
+.phone {
+    color: white;
+}
+
+.social_media {
+    color: white;
+}
+
+.social_media_images {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    height: 30px;
+    width: 40px;
+}
+
+.img2 {
+    height: 30px;
+    width: 30px;
+}
+
+.img3 {
+    height: 30px;
+    width: 36px;
+}
+
+.img4 {
+    height: 30px;
+    width: 30px;
+}
